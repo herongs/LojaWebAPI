@@ -190,3 +190,11 @@
 </code></pre>
 
 <hr>
+
+<h2>📑 Documentação Swagger</h2>
+
+<p>Para facilitar o uso e teste dos endpoints, uma documentação interativa é gerada automaticamente via Swagger. Acesse a documentação no navegador através da rota abaixo:</p>
+
+<p><code>http://localhost:5272/swagger</code></p>
+
+<hr>
